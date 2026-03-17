@@ -47,6 +47,4 @@ Streamlit
 Machine Learning  
 GitHub
 
----
 
-## Project Structure
