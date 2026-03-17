@@ -10,7 +10,7 @@ The application takes transaction details such as amount, city population, latit
 
 Try the application here:
 
-https://fraud-detection-system-6twk2sukch8vpqg7nmoojw.streamlit.app/
+https://ml-fraud-detection-system.streamlit.app/
 
 ---
 
